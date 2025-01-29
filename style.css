@@ -79,7 +79,8 @@ body *{
     position: absolute;
     z-index: 1;
     transform: translateY(-50%);
-
+    cursor: pointer;
+    
     animation: slide-back 0.2s;
 }
 
